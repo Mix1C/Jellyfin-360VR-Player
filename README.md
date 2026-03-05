@@ -46,7 +46,7 @@ Refresh Jellyfin in your browser. When you play any video, a **VR** button will 
 ## Usage
 
 1. Start playing any 360° video in Jellyfin
-2. Click the **VR** button in the player controls [![Preview](https://github.com/Mix1C/JellyFin-VR-360-Player/blob/main/Preview/DEFAULT.png)]
+2. Click the **VR** button in the player controls [![Preview](https://github.com/Mix1C/JellyFin-VR-360-Player/blob/main/Preview/DEFAULT.png)
 4. The 360° player will open, lick and drag to look around
 5. Access settings via the **⚙** gear icon for speed, quality, repeat, and theme
 6. Press **Escape** or click the back arrow (←) to return to Jellyfin
@@ -64,7 +64,7 @@ Refresh Jellyfin in your browser. When you play any video, a **VR** button will 
 ## Themes
 
 Open **Settings → Theme** to choose an accent colour. Your choice is saved automatically.
-[![Themes](https://github.com/Mix1C/JellyFin-VR-360-Player/blob/main/Preview/VR.png)
+![Themes](https://github.com/Mix1C/JellyFin-VR-360-Player/blob/main/Preview/VR.png)
 
 ---
 
