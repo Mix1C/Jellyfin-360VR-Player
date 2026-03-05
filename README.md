@@ -1,7 +1,7 @@
 # JellyFin-VR-360-Player
 A custom 360° VR video player for Jellyfin, injected via any Javascript Plugin of your choice. Adds a **VR** button to the Jellyfin player that opens any video in a 360° spherical viewer with full playback controls. aFrame and Google apis are used. 
 
-![License](https://img.shields.io/badge/License-AGPL--3.0-purple) ![Jellyfin](https://img.shields.io/badge/Jellyfin-10.8+-00a4dc?logo=jellyfin) ![Author](https://img.shields.io/badge/Author-Mix1C-ff69b4)
+![License](https://img.shields.io/badge/License-AGPL--3.0-purple) ![Jellyfin](https://img.shields.io/badge/Jellyfin-10.11+-00a4dc?logo=jellyfin) ![Author](https://img.shields.io/badge/Author-Mix1C-ff69b4)
 
 ---
 
