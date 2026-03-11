@@ -21,7 +21,7 @@ A custom 360° VR video player for Jellyfin, injected via any Javascript Plugin 
 
 ## Installation
 
-**1. Install a Custom JavaScript plugin or injector. TamperMonkey also works.**
+**1. Install any Custom JavaScript plugin or injector. TamperMonkey also works.**
 
 In Jellyfin, go to **Dashboard → Plugins → Repositories** and add a javascript injector. I highly recommend the following:
 
